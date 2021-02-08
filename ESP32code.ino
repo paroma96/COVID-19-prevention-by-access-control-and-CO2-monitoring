@@ -1,4 +1,4 @@
-* Title: System for COVID-19 prevention in closed spaces by access control and CO2 monitoring                *
+/* Title: System for COVID-19 prevention in closed spaces by access control and CO2 monitoring                *
  *                                                                                                            *
  * Authors: Pablo Rodríguez Martín & Daniel García Portero                                                    *
  *                                                                                                            *
