@@ -6,7 +6,7 @@
 *                                                                                                            *
 * Date: February 11th, 2021                                                                                  *
 *                                                                                                            * 
-* Version:. 1.0                                                                                              *   
+* Version:  1.0                                                                                              *   
 *                                                                                                            *
 * Type: Arduino code for ESP32                                                                               *
 *                                                                                                            * 
