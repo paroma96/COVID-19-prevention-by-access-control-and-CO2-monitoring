@@ -1,17 +1,19 @@
-/* Title: System for COVID-19 prevention in closed spaces by access control and CO2 monitoring                *
- *                                                                                                            *
- * Authors: Pablo Rodríguez Martín & Daniel García Portero                                                    *
- *                                                                                                            *
- * Date: February 11th, 2021                                                                                  *
- *                                                                                                            * 
- * Version:. 1.0                                                                                              *   
- *                                                                                                            *
- * Type: Arduino code for ESP32                                                                               *
- *                                                                                                            * 
- * Availability: https://github.com/paroma96/COVID-19-prevention-by-access-control-and-CO2-monitoring/import  *
- *                                                                                                            *  
- **************************************************************************************************************
- **************************************************************************************************************/ 
+/*************************************************************************************************************
+**************************************************************************************************************
+* Title: System for COVID-19 prevention in closed spaces by access control and CO2 monitoring                *
+*                                                                                                            *
+* Authors: Pablo Rodríguez Martín & Daniel García Portero                                                    *
+*                                                                                                            *
+* Date: February 11th, 2021                                                                                  *
+*                                                                                                            * 
+* Version:. 1.0                                                                                              *   
+*                                                                                                            *
+* Type: Arduino code for ESP32                                                                               *
+*                                                                                                            * 
+* Availability: https://github.com/paroma96/COVID-19-prevention-by-access-control-and-CO2-monitoring/import  *
+*                                                                                                            *  
+**************************************************************************************************************
+**************************************************************************************************************/ 
 
 #include <SPI.h>
 #include <MFRC522.h>
