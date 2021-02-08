@@ -8,7 +8,7 @@
 //*                                                                                                            *
 //* Date: February 11th, 2021                                                                                  *
 //*                                                                                                            * 
-//* Version: 1.0                                                                                              *   
+//* Version: 1.0                                                                                               *   
 //*                                                                                                            *
 //* Type: Python code for control access server (TCP/IP)                                                       *
 //*                                                                                                            * 
