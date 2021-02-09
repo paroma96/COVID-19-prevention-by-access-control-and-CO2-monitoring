@@ -25,5 +25,5 @@ _This code will allow you to set up the system network's nodes on WiFi-ESP32 bas
 
 
 * **Pablo Rodríguez Martín** - *Co-work* - [Paroma96](https://github.com/paroma96)
-* **Daniel García Portero** - *Co-work* - [Paroma96](https://github.com/DaniGP315)
+* **Daniel García Portero** - *Co-work* - [DaniGP15](https://github.com/DaniGP315)
 
