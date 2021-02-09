@@ -10,7 +10,7 @@
 //*                                                                                                            * 
 //* Version: 1.0                                                                                               *   
 //*                                                                                                            *
-//* Type: Python code for CO2 server (UDP/IP)                                                                  *
+//* Type: Python code for database initiation                                                                  *
 //*                                                                                                            * 
 //* Availability: https://github.com/paroma96/COVID-19-prevention-by-access-control-and-CO2-monitoring/import  *
 //*                                                                                                            *  
