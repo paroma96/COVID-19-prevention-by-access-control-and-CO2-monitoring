@@ -108,7 +108,7 @@ def adapTimeInf(Time):
   return TimeInf
 
 
-# Modifica el tiempo superior de busqueda en +5min  
+# Modifica el tiempo superior de busqueda en +-5min  
 def adapTimeSup(Time):
   Time_obj = datetime.strptime(Time, '%Y-%m-%dT%H:%M:%S.%fZ')
   TimeSup = Time_obj + timedelta(minutes=5)
