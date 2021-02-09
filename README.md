@@ -2,7 +2,7 @@
 
 # COVID-19 prevention system by access control and CO2 monitoring
 
-_Code designed for  MSc. Telecommunications Engineering Final Project_
+_Code designed for  MSc. Telecommunications Engineering Sistemas Electrónicos Integrados subject's Final Project_
 
 
 ## What is this repository about? 🚀
