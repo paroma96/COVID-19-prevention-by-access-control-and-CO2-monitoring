@@ -25,9 +25,9 @@ from datetime import datetime, date, time, timedelta
 from influxdb import InfluxDBClient
 
 
-ifuser = "grafana"
-ifpass = "SEI2020"
-ifdb = "ProyectoSEI"
+ifuser = "<YOUR_INFLUX_DB_USER>"
+ifpass = "<YOUR_INFLUX_DB_PASS>"
+ifdb = "<YOUR_INFLUX_DB_NAME>"
 ifhost = "127.0.0.1"
 ifport = 8086
 client = InfluxDBClient(ifhost, ifport, ifuser, ifpass, ifdb)
