@@ -15,7 +15,7 @@ _This code will allow you to set up the system network's nodes on WiFi-ESP32 bas
 
 * _ESP32 nodes (1 at least)_
 
-* _Linux system with InfluxDB and Grafana running_
+* _Linux system with InfluxDB and Grafana running (e.g. Raspberry Pi + Raspbian Lite)_
 
 * _CO2 sensor (MQ-135) and RFID sensor (RC522)_
 
